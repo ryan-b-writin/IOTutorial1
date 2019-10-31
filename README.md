@@ -1,4 +1,3 @@
-"# IOTutorial1" 
 This repository contains an excercise meant to introduce Java I/O.
 
 Exercise contained in: 
